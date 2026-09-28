@@ -1,3 +1,3 @@
-# devops-journey
-DevOps Learning Journey 🚀
-This repository documents my day-by-day DevOps learning journey through assignments, hands-on practice, experiments
+# 🚀 DevOps Learning Journey
+
+This repository contains my **day-by-day DevOps learning journey**, including notes, assignments, hands-on practice
